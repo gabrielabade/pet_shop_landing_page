@@ -12,6 +12,6 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 <br>
 <br>
-<img src="https://github.com/gabrielabade/easy-shopping_landing_page/blob/master/img/versao-desktop-e-mobile.png?raw=true" alt="versao-desktop-e-mobile" width="550px"/>
+<img src="https://github.com/gabrielabade/pet_shop_landing_page/blob/master/img/versao-desktop-e-mobile.png?raw=true" alt="versao-desktop-e-mobile" width="550px"/>
 
 </div>
